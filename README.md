@@ -62,7 +62,7 @@ Kept intentionally simple — a plain AI estimate from the description, no devic
 
 ### Weight Entry
 ```
-{ value, unit: "lb" | "kg", t }
+{ value, unit: "lb" | "kg", timestamp }
 ```
 Loggable both conversationally and via a quick manual-entry field (a scale reading isn't really something people narrate).
 
